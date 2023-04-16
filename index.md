@@ -13,7 +13,7 @@ enddate: 2023-05-16
 instructor: ["Dr. Jannetta Steyn", "Dr. Richard Howey"] 
 helper: ["Yash Borikar", "Stuart Lewis"]     
 email: ["jannetta.steyn@newcastle.ac.uk","michelle.gilbride@newcastle.ac.uk"]    
-collaborative_notes:  
+collaborative_notes: https://hackmd.io/@rseteam-ncl/2023-05-23-NCL
 eventbrite:           
 ---
 
