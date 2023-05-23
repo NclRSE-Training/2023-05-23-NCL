@@ -11,7 +11,7 @@ humantime: "09:00 - 17:00 UTC"
 startdate: 2023-05-16
 enddate: 2023-05-16
 instructor: ["Dr. Jannetta Steyn", "Dr. Richard Howey"] 
-helper: ["Yash Borikar", "Stuart Lewis"]     
+helper: ["Stuart Lewis"]     
 email: ["jannetta.steyn@newcastle.ac.uk","michelle.gilbride@newcastle.ac.uk"]    
 collaborative_notes: https://hackmd.io/@rseteam-ncl/2023-05-23-NCL
 eventbrite:           
